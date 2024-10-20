@@ -40,9 +40,6 @@ This application enables users to manage their daily expenses and seamlessly spl
     "mobileNumber": "1234567890",
     "password": "Password123"
   }
-Here’s the specified part formatted correctly in Markdown:
-
-
 #### 2. Login User
 
 - **POST** `/users/login`
@@ -200,7 +197,7 @@ PORT=5000
    npm start
    ```
 
-4. The application will run on `http://localhost:3000`.
+4. The application will run on `http://localhost:5000`.
 
 ## 🧪 Testing the API
 
